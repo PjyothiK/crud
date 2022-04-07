@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 6,
+      "firstName": "ani",
+      "lastName": "tntu",
+      "email": "ani@gmail.com",
+      "mobile": 66666666666,
+      "salary": 88888888888888
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
